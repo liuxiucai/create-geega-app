@@ -6,7 +6,6 @@ const path = require('path')
 const argv = require('minimist')(process.argv.slice(2))
 const { prompt } = require('enquirer')
 const {
-  yellow,
   green,
   cyan,
   stripColors
