@@ -10,6 +10,9 @@
   "bin": {
     "create-geega-app": "index.js"
   },
+  "publishConfig": {
+    "access": "public"
+ },
   "engines": {
     "node": ">=12.0.0"
   },
@@ -45,5 +48,5 @@
     "prettier": "^2.2.1",
     "semver": "^7.3.4"
   },
-  "gitHead": "84c64e597babe5c3348ba3f3d950e78a47dc1f89"
+  "gitHead": "a4ea02aae5843e82db55dd1560ac185b91bb1b1f"
 }

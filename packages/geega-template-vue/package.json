@@ -8,6 +8,9 @@
     "build": "vite build",
     "serve": "vite preview"
   },
+  "publishConfig": {
+    "access": "public"
+ },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -27,5 +30,6 @@
     "@vitejs/plugin-vue": "^1.1.5",
     "@vue/compiler-sfc": "^3.0.5",
     "vite": "^2.1.3"
-  }
+  },
+  "gitHead": "a4ea02aae5843e82db55dd1560ac185b91bb1b1f"
 }
