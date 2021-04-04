@@ -1,6 +1,6 @@
 {
   "name": "@geega/create-geega-app",
-  "version": "0.0.22-alpha.0",
+  "version": "0.0.23-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -48,5 +48,5 @@
     "prettier": "^2.2.1",
     "semver": "^7.3.4"
   },
-  "gitHead": "b68c8e7414355f71a61ebca2acce057a0134885a"
+  "gitHead": "3ac2522606129c5901141bbfbaaddca1d6e2ebef"
 }
