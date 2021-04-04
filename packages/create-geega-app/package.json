@@ -47,5 +47,6 @@
     "lint-staged": "^10.5.3",
     "prettier": "^2.2.1",
     "semver": "^7.3.4"
-  }
+  },
+  "gitHead": "84c64e597babe5c3348ba3f3d950e78a47dc1f89"
 }
