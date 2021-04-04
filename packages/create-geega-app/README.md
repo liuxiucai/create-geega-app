@@ -39,7 +39,4 @@ Currently supported template presets include:
 
 - `vue`
 - `vue-ts`
-- `vue-ts-admin-vben`
-- `react`
-- `react-ts`
 

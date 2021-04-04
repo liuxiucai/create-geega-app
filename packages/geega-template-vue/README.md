@@ -1,3 +1,3 @@
 # geega-template-vue
 
-## template
+## templates
