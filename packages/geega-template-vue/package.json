@@ -20,7 +20,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/liuxiucai/create-geega-app",
-    "directory": "packages/create-geega-app"
+    "directory": "packages/geega-template-vue"
   },
   "bugs": {
     "url": "https://github.com/liuxiucai/create-geega-app/issues"
@@ -31,5 +31,5 @@
     "@vue/compiler-sfc": "^3.0.5",
     "vite": "^2.1.3"
   },
-  "gitHead": "f3d9db5f60085b3178b087f6301af4fada74663b"
+  "gitHead": "a3e2f74dd88a147b4b532b4f0e8f43cf16fc1811"
 }
