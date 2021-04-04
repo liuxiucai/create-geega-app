@@ -1,0 +1,51 @@
+{
+  "name": "@geega/create-geega-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "geega-app":"index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-geega-app": "index.js"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuxiucai/create-geega-app.git",
+    "directory": "packages/create-geega-app"
+  },
+  "bugs": {
+    "url": "https://github.com/liuxiucai/create-geega-app/issues"
+  },
+  "homepage": "https://github.com/liuxiucai/create-geega-app/packages/create-geega-app#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "kolorist": "^1.2.9",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.19",
+    "@types/node": "^14.14.10",
+    "@types/semver": "^7.3.4",
+    "@typescript-eslint/parser": "^4.9.1",
+    "chalk": "^4.1.0",
+    "conventional-changelog-cli": "^2.1.1",
+    "enquirer": "^2.3.6",
+    "eslint": "^7.15.0",
+    "execa": "^5.0.0",
+    "husky": "^6.0.0",
+    "lint-staged": "^10.5.3",
+    "prettier": "^2.2.1",
+    "semver": "^7.3.4"
+  }
+}
