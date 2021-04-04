@@ -17,6 +17,15 @@
   "dependencies": {
     "vue": "^3.0.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuxiucai/create-geega-app.git",
+    "directory": "packages/create-geega-app"
+  },
+  "bugs": {
+    "url": "https://github.com/liuxiucai/create-geega-app/issues"
+  },
+  "homepage": "https://github.com/liuxiucai/create-geega-app#readme",
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.1.5",
     "@vue/compiler-sfc": "^3.0.5",
