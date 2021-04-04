@@ -8,9 +8,6 @@
     "build": "vite build",
     "serve": "vite preview"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
