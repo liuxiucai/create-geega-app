@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liuxiucai/create-geega-app.git",
+    "url": "https://github.com/liuxiucai/create-geega-app",
     "directory": "packages/create-geega-app"
   },
   "bugs": {
@@ -48,5 +48,5 @@
     "prettier": "^2.2.1",
     "semver": "^7.3.4"
   },
-  "gitHead": "426d00958e56f2d97f536a53ec45e1bbba8ac7bf"
+  "gitHead": "f3d9db5f60085b3178b087f6301af4fada74663b"
 }
