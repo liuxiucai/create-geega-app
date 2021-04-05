@@ -1,6 +1,6 @@
 {
   "name": "@geega/geega-template-vue",
-  "version": "0.0.36-alpha.0",
+  "version": "0.0.35-alpha.0",
   "description": "",
   "main": "index.js",
   "bin": {
