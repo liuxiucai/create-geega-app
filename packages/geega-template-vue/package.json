@@ -33,6 +33,5 @@
     "@vitejs/plugin-vue": "^1.1.5",
     "@vue/compiler-sfc": "^3.0.5",
     "vite": "^2.1.3"
-  },
-  "gitHead": "f0c9324301bdabdef456ae4b50f54a7ba46fc76c"
+  }
 }
