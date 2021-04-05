@@ -1,6 +1,6 @@
 {
   "name": "@geega/geega-template-vue",
-  "version": "0.0.39-alpha.0",
+  "version": "0.0.40-alpha.0",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -34,5 +34,5 @@
     "@vue/compiler-sfc": "^3.0.5",
     "vite": "^2.1.3"
   },
-  "gitHead": "5b7eafeba9ecc8834316791e74ffc4247d661ff2"
+  "gitHead": "bd2aa3c98723291dfbb3b6e9b1cf0f46377b5f0c"
 }
